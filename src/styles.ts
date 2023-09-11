@@ -6,9 +6,11 @@ const EstiloGlobal = createGlobalStyle`
     padding: 0;
     font-family: 'Inter', sans-serif;
     list-style: none;
+    text-decoration: none;
   }
 
   body {
+    background-color: ${(props) => props.theme.corDeFundo};
     padding-top: 80px;
     padding-bottom: 80px;
 
