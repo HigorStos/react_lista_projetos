@@ -37,7 +37,7 @@ const Projetos = () => (
       <li>
         <Projeto
           titulo="Spider-Man 2"
-          descricao="Criei uma landing page para promover o jogo Spider-Man 2."
+          descricao="Landing page para promover o jogo Spider-Man 2."
           link="https://github.com/HigorStos/js_spider-man_2"
         />
       </li>
